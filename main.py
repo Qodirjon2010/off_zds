@@ -79,3 +79,4 @@
 # db.commit(db.close()
 
 print("Alpha")
+print("off_zds")
