@@ -81,3 +81,4 @@
 print("Alpha")
 print("off_zds")
 print("Game over")
+print("+998886871020")
