@@ -80,3 +80,4 @@
 
 print("Alpha")
 print("off_zds")
+print("Game over")
